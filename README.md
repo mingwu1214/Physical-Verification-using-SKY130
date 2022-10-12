@@ -63,6 +63,51 @@
 
 
 - Creating Sky130 Device Layout In Magic
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10-22-01.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-02.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-02.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-03.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-04.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-05.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-06.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-07.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-08.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-09.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-10.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-11.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-12.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-13.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-14.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-15.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-16.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-17.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-18.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2023-19.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2023-20.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2023-22.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2023-23.png)
 
 - Creating Simple Schematic In Xschem
 
