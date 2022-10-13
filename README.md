@@ -1,5 +1,12 @@
 # PHYSICAL VERIFICATION USING SKYWATER 130NM TECHNOLOGY
  5-day workshop for physical verification using sky130
+ 
+ - If you want to do following lab in your local machine, you can prompt the following script. 
+Clone the repository git clone https://github.com/RTimothyEdwards/open_pdks\
+Run cd open_pdks\
+Run ./configure --enable-sky130-pdk\
+Run make\
+Run sudo make install
 
 # Day 1 - Introduction to SkyWater SKY130
 
