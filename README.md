@@ -14,7 +14,7 @@ Run sudo make install
 - Check Tool Installations
 
 Following is the procedure to ensure the environment is ready or not.
-You can just follow the detailed snapshot to checkit 
+You can just follow the detailed snapshot to check it 
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L1%20-%20Check%20Tool%20Installations/raw/2022-10-10%2011_40_09-Window.png)
 
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L1%20-%20Check%20Tool%20Installations/raw/2022-10-10%2011_41_26-Window.png)
