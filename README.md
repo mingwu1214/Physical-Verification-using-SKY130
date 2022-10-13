@@ -158,6 +158,7 @@ Open inverter.sch and Generate inverter.spice with option "Top level is a .subck
 
 - Importing Schematic To Layout And Inverter Layout Steps
 
+
 magic -d XR\
 "File" -> "Import SPICE
 
@@ -191,6 +192,25 @@ After connecting the nodes, you will see drc=0
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/7.png)
 
 - Final DRC/LVS Checks And Post Layout Simulations
+
+
+extract do local \
+extract all \
+ext2spice lvs \
+ext2spice \
+quit 
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L6-Final_DRCLVS_Checks_And_Post_Layout_Simulations/01.png)
+
+
+% netgen -batch lvs "../mag/inverter.spice inverter" "../xschem/inverter.spice inverter" 
+
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L6-Final_DRCLVS_Checks_And_Post_Layout_Simulations/02.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L6-Final_DRCLVS_Checks_And_Post_Layout_Simulations/03.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L6-Final_DRCLVS_Checks_And_Post_Layout_Simulations/04.png)
 
 # Day 2 -DRC/LVS Theory and labs
 
