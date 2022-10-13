@@ -119,6 +119,14 @@
 prompt xschem
 Open the inverter.sch and press "symbol" -> "make symbol from schematic" to generate inverter.sym
 
+XSCHEM EDITOR COMMAND CHEATSHEET\
+This list is available in XSCHEM in the Help menu\
+\
+Shift-i to insert instance\
+Hover+m to move the object\
+Hover+w for add wire to connect the nodes\
+Right mouse button to the properties form
+
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/0.png)
 
 draw inverter_tb.sch
