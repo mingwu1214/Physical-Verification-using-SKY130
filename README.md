@@ -116,6 +116,34 @@
 
 - Creating Symbol And Exporting Schematic In Xschem
 
+prompt xschem
+Open the inverter.sch and press "symbol" -> "make symbol from schematic" to generate inverter.sym
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/0.png)
+
+draw inverter_tb.sch
+After drawing the inverter_tb.sch, press netlist to generate inverter_tb.spice
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/1.png)
+
+After generating the netlist, press simulate to simulate the inverter_tb.spice
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/2.png)
+
+Messages during the simulation
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/3.png)
+
+Simulation result
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/4.png)
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/5.png)
+
+Open inverter.sch and Generate inverter.spice with option "Top level is a .subckt"
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L4-Creating_Symbol_And_Exporting_Schematic_In_Xschem/6.png)
+
+
 - Importing Schematic To Layout And Inverter Layout Steps
 
 - Final DRC/LVS Checks And Post Layout Simulations
