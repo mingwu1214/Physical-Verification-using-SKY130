@@ -86,12 +86,6 @@ You can just follow the detailed snapshot to check it
 
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-06.png)
 
-![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-07.png)
-
-![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-08.png)
-
-![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-09.png)
-
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-10.png)
 
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2022-11.png)
