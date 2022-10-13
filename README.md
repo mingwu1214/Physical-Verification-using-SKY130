@@ -146,6 +146,38 @@ Open inverter.sch and Generate inverter.spice with option "Top level is a .subck
 
 - Importing Schematic To Layout And Inverter Layout Steps
 
+magic -d XR\
+"File" -> "Import SPICE
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/0.png)
+
+Press i to select the cell, M to move the cell.\
+Press s to select the port, M to move the port.
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/1.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/2.png)
+
+Press i to select the cell, P to configure the cell.\
+Set "Top guard ring via coverage" to 100%\
+Set "Source via coverage" to 40%\
+Set "Drain via coverage" to -40%
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/3.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/4.png)
+
+Use rectangle and path mode to connect the nodes; you can change the mode by press space key.\
+Use center mouse button to pick the layer.
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/5.png)
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/6.png)
+
+After connecting the nodes, you will see drc=0
+
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L5-Importing_Schematic_To_Layout_And_Inverter_Layout_Steps/7.png)
+
 - Final DRC/LVS Checks And Post Layout Simulations
 
 # Day 2 -DRC/LVS Theory and labs
