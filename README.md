@@ -110,6 +110,9 @@
 ![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L2-Creating_Sky130_Device_Layout_In_Magic/raw/2022-10-10%2023-23.png)
 
 - Creating Simple Schematic In Xschem
+  
+  Create the first inverter schematic in Xschem
+![image](https://github.com/mingwu1214/Physical-Verification-using-SKY130/blob/main/screenshot/PV_D1SK2_L3-Creating_Simple_Schematic_In_Xschem/raw/2022-10-13-00-000017.png)
 
 - Creating Symbol And Exporting Schematic In Xschem
 
